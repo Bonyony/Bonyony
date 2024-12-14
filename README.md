@@ -3,7 +3,7 @@
 Here is my website: frankfrancione.com
 
 - 🔭 I’m currently working on
-  - A fullstack application utilizing Node.js and Express.
+  - A fullstack realtime chat application utilizing SocketIO, Node.js and Express on the backend. React, React-three-fiber and Tailwind on the Frontend.
   - A drag-and-drop noteboard application.
   - More design work!
   - My character creator for the Call of Cthulhu TTRPG!
