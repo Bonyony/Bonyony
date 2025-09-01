@@ -3,9 +3,9 @@
 🌻 Here is my website: frankfrancione.com 🌻 
 
 - 🔭 I’m currently working on
-  - E-commerce site development @ my job. 💾 
+  - Web development @ my job. 💾 
   - Experimenting with different technology stacks! 🔎 
-  - A fullstack realtime chat application utilizing SocketIO, Node.js and Express on the backend. React, React-three-fiber and Tailwind on the Frontend. 🆒 
+  - A custom Golang CMS. 🆒 
   - More design work!
  
 - 🌱 I’m currently learning more skills related to Multi-User and Cloud Development
